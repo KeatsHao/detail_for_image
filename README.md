@@ -1,5 +1,5 @@
 # detail_for_image
-Fist, put all the images in one folder, i.e. location.
+Fist, put all the images in one folder, i.e., location.
 
 Second, use preview or other image viewer to get the detail part location of the image.
 
